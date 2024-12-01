@@ -1,0 +1,6 @@
+{
+  "tasks": {
+    "day1:1": "deno run --allow-all day1_1.ts",
+    "day1:2": "deno run --allow-all day1_2.ts"
+  }
+}

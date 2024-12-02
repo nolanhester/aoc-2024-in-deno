@@ -31,8 +31,6 @@ const dampLevels = reports.map((levels) =>
   levels.map((_, i1) => levels.filter((_, i2) => i1 !== i2))
 );
 
-console.log(dampLevels[0]);
-
 const levelsCheck = dampLevels.map((levelPerms) =>
   levelPerms
     .map(

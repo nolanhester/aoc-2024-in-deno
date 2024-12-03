@@ -3,6 +3,7 @@
     "day1:1": "deno run --allow-all day1_1.ts",
     "day1:2": "deno run --allow-all day1_2.ts",
     "day2:1": "deno run --allow-all day2_1.ts",
-    "day2:2": "deno run --allow-all day2_2.ts"
+    "day2:2": "deno run --allow-all day2_2.ts",
+    "day3:1": "deno run --allow-all day3_1.ts"
   }
 }
